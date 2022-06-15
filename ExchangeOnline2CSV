@@ -10,6 +10,8 @@
     - User Principal Name. Usually in a form of email of user which mailbox we going to process.
 .PARAMETER maxRecordToProcessForEachFolder 
     - max records to process for each folder. If you want "no limit" put some huge value there.. like 50000000
+.PARAMETER foldersToExport
+    -  second level folders to start export from
 .OUTPUTS
     <yyyyMMdd-HHmmss>_<UPN>_exportedGrapth.csv - file created in the folder specified by pathToSaveFiles parameter:
 .NOTES
