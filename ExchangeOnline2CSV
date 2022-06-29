@@ -13,7 +13,7 @@
 .PARAMETER foldersToExport
     -  second level folders to start export from
 .OUTPUTS
-    <yyyyMMdd-HHmmss>_<UPN>_exportedGrapth.csv - file created in the folder specified by pathToSaveFiles parameter:
+    <yyyyMMdd-HHmmss>_<UPN>_exportedGraph.csv - file created in the folder specified by pathToSaveFiles parameter:
 .NOTES
     Program is created as Proof Of Concept and provided as is, with absolutely no warranty expressed or implied. Any use is at your own risk.
     Author: Aleksandr Reznik (aleksandr@reznik.lt)
